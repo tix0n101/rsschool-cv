@@ -56,22 +56,22 @@ namespace Kata
 ```
 ---
 
-##Work Experience
+## Work Experience
 
 I don’t have commercial experience yet.
 
 ---
 
-##Education
+## Education
 
-Current university student
-RS School JavaScript / Frontend Course (in progress)
-Python Course for beginners(https://stepik.org/course/58852)
-Learning from online resources (YouTube, documentation, etc.)
+- Current university student
+- RS School JavaScript / Frontend Course (in progress)
+- [Python Course for beginners](https://stepik.org/course/58852)
+- Learning from online resources (YouTube, documentation, etc.)
 
 ---
 
-##English
+## English
 
 My English level is B1.
 I practice English by watching videos, reading documentation, and sometimes communicating online.

@@ -63,6 +63,7 @@ I don’t have commercial experience yet.
 ---
 
 ##Education
+
 Current university student
 RS School JavaScript / Frontend Course (in progress)
 Python Course for beginners(https://stepik.org/course/58852)
